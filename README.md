@@ -4,3 +4,4 @@
 ## Assuntos
 
 - Análise de uma variável categórica
+- Tabelas de contingência
