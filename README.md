@@ -7,3 +7,4 @@ Observação: alguns exercícios foram realizados na plataforma Khan Academy. Po
 
 - Análise de uma variável categórica
 - Tabelas de contingência
+- Distribuições em tabela de contingência
